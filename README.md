@@ -1,2 +1,2 @@
-# CodeBreaker-Assignment
-CS12320 Main Assignment
+# CodeBreaker
+## CS12320 Main Assignment
