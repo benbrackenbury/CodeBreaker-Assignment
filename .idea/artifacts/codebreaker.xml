@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="codebreaker">
-    <output-path>$PROJECT_DIR$/out/artifacts/codebreaker</output-path>
-    <root id="archive" name="codebreaker.jar" />
-  </artifact>
-</component>
